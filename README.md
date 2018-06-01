@@ -2,7 +2,7 @@
 # Unity Separable Subsurface Scattering
 ## Features:
 * Realtime Post-processing SSS effects(Separable SSS)
-* Custom Shader supported(Stencil based post-processing)
+* Custom Shader supported(Stencil Based Post-Processing)
 * Realtime color gradient calculations
 ## Guide:
 * Add "SeparableSubsurfaceScatter.cs" to the rendering camera and transform the options provided.
